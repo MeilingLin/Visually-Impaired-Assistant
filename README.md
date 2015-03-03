@@ -10,6 +10,7 @@ After coming up with our project objective we are planning to remove the part wi
 ##Included Folders and Repo Contents##
 ###/Doc###
 <ul>
+		<li>"design.doc" - Design of your project.</li>
 		<li>"pre-requisite.doc" - What software and hardware you need to acquire before you start this project</li>
 		<li>"software_install.doc" - step-by-step guide, with image and/or video if necessary, software installation and the pre-requisite such as library, drivers, platform etc.</li>
 		<li>"hardware_install.doc" - step-by-step guide, with image and/or vidoe if necessary, hardware acquisition (from where and how much does it cost) driver download, installation and assembly details. 
@@ -31,9 +32,9 @@ After coming up with our project objective we are planning to remove the part wi
 ![alt tag](Images/CircuitBoard.png)
 
 ##Videos##
-*[Assembly Video](https://www.youtube.com/watch?v=WbqXZgBYLgY)
+[Assembly Video](https://www.youtube.com/watch?v=WbqXZgBYLgY)
 <br/>
-*[Demo video](https://www.youtube.com/watch?v=l3yPzs39GY0)
+[Demo video](https://www.youtube.com/watch?v=l3yPzs39GY0)
 
 ##Contributors##
 Meiling Lin, Haiqiang Zou
