@@ -11,18 +11,18 @@ After coming up with our project objective we are planning to remove the part wi
 ###/Doc###
 <ul>
 		<li>"pre-requisite.doc" - What software and hardware you need to acquire before you start this project</li>
-		<li>"software_install.doc" - step-by-step guide, with image and/or video if necessary, software installation and the pre-requisite such as library, drivers, platform etc.
-		</li>
-		<li>"hardware_install.doc" - step-by-step guide, with image and/or vidoe if necessary, hardware acquisition (from where and how much does it cost) driver download, installation and assembly details. This includes senors, chassis/platform, RF module, Aurdino etc.</li>
+		<li>"software_install.doc" - step-by-step guide, with image and/or video if necessary, software installation and the pre-requisite such as library, drivers, platform etc.</li>
+		<li>"hardware_install.doc" - step-by-step guide, with image and/or vidoe if necessary, hardware acquisition (from where and how much does it cost) driver download, installation and assembly details. 
+		This includes senors, chassis/platform, RF module, Aurdino etc.</li>
 		<li>"assembly_guide.doc" - zero or more of assembly guide to put together the hardware/software.</li>
 		<li>"references" - list of any papers/reports/articles that you used for the project.</li>
 		<li>"honor statement" - stating the deliverable is your original work, and if you adopted anything from anyone, credit and make proper citation</li>
-		<li>"team contribution statement" - detailing what each team member has done for the project, and the contribution of each member in the project. This statement should be signed by every team member.</li>
+		<li>"team contribution statement" - detailing what each team member has done for the project, and the contribution of each member in the project.</li>
 		</ul>
 ###/Software###
-	containing individual subfolders for the app you download and used, software you developed (including source code, library, executable etc.)
+	containing individual subfolders for the app we download and used, software that we developed (including source code, library, executable etc.)
 ###/Hardware###
-	contain the interface software, drivers needed for your hardware
+	contain the interface software, drivers needed for the hardware
 ###Report on problems found and solved###
 
 ###Reflection###
