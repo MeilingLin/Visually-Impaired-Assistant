@@ -8,9 +8,7 @@ After coming up with our project objective we are planning to remove the part wi
 
 
 ##Included Folders and Repo Contents##
-<ol>
-	<li>doc folder providing all the documentations for your project, which include </li>
-	<ul>
+###/Doc###
 		<li>"pre-requisite.doc" - What software and hardware you need to acquire before you start this project</li>
 		<li>"software_install.doc" - step-by-step guide, with image and/or video if necessary, software installation and the pre-requisite such as library, drivers, platform etc.
 		</li>
@@ -19,19 +17,20 @@ After coming up with our project objective we are planning to remove the part wi
 		<li>"references" - list of any papers/reports/articles that you used for the project.</li>
 		<li>"honor statement" - stating the deliverable is your original work, and if you adopted anything from anyone, credit and make proper citation</li>
 		<li>"team contribution statement" - detailing what each team member has done for the project, and the contribution of each member in the project. This statement should be signed by every team member.</li>
-		<li></li>
-	</ul>
-	<li>software folder containing individual subfolders for the app you download and used, software you developed (including source code, library, executable etc.)</li>
-	<li>hardware folder with the interface software, drivers needed for your hardware</li>
-	<li>Report on problems found and solved</li>
-	<li>Reflection</li>
-</ol>
+###/Software###
+	containing individual subfolders for the app you download and used, software you developed (including source code, library, executable etc.)
+###/Hardware###
+	contain the interface software, drivers needed for your hardware
+###/Report on problems found and solved###/
+###/Reflection###/
+
 
 ##CircuitBoard##
 ![alt tag](Images/CircuitBoard.png)
 
 ##Video##
 [Assembly Video](https://www.youtube.com/watch?v=WbqXZgBYLgY)
+<br/>
 [Demo video](https://www.youtube.com/watch?v=l3yPzs39GY0)
 
 ##Contributors##
