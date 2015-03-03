@@ -30,7 +30,7 @@ After coming up with our project objective we are planning to remove the part wi
 ##CircuitBoard##
 ![alt tag](Images/CircuitBoard.png)
 
-##Video##
+##Videos##
 *[Assembly Video](https://www.youtube.com/watch?v=WbqXZgBYLgY)
 <br/>
 *[Demo video](https://www.youtube.com/watch?v=l3yPzs39GY0)
